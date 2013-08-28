@@ -1,0 +1,277 @@
+  {
+      "search_url": "http:\/\/www.sc2ranks.com\/search\/hots\/global\/1v1\/all\/all\/exact\/draco",
+      "results": {
+          "pages": 1,
+          "players": [{
+              "name": " Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/kr\/4186149\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/kr.battle.net\/sc2\/ko\/profile\/4186149\/1\/Draco\/",
+              "region": "kr",
+              "divisions": {
+                  "region": "kr",
+                  "points": 0,
+                  "bracket": false,
+                  "wins": 0,
+                  "losses": 3,
+                  "winRatio": 0,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " [WatLo] Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/eu\/240812\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/eu.battle.net\/sc2\/en\/profile\/240812\/1\/Draco\/",
+              "region": "eu",
+              "divisions": {
+                  "region": "eu",
+                  "points": 118,
+                  "bracket": false,
+                  "wins": 4,
+                  "losses": 6,
+                  "winRatio": 0.4,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/us\/4223183\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/4223183\/1\/Draco\/",
+              "region": "us",
+              "divisions": {
+                  "region": "us",
+                  "points": 74,
+                  "bracket": false,
+                  "wins": 3,
+                  "losses": 1,
+                  "winRatio": 0.75,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " [GsQ] Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/us\/3543244\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3543244\/1\/Draco\/",
+              "region": "us",
+              "divisions": {
+                  "region": "us",
+                  "points": 108,
+                  "bracket": false,
+                  "wins": 3,
+                  "losses": 3,
+                  "winRatio": 0.5,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " [ExoC] Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/us\/3725210\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3725210\/1\/Draco\/",
+              "region": "us",
+              "divisions": {
+                  "region": "us",
+                  "points": 215,
+                  "bracket": false,
+                  "wins": 8,
+                  "losses": 9,
+                  "winRatio": 0.470588235294,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/us\/1252742\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/1252742\/1\/Draco\/",
+              "region": "us",
+              "divisions": {
+                  "region": "us",
+                  "points": 248,
+                  "bracket": false,
+                  "wins": 7,
+                  "losses": 6,
+                  "winRatio": 0.538461538462,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/eu\/1158410\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/eu.battle.net\/sc2\/en\/profile\/1158410\/1\/Draco\/",
+              "region": "eu",
+              "divisions": {
+                  "region": "eu",
+                  "points": 526,
+                  "bracket": false,
+                  "wins": 19,
+                  "losses": 13,
+                  "winRatio": 0.59375,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " [EM] Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/sea\/568482\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/sea.battle.net\/sc2\/en\/profile\/568482\/1\/Draco\/",
+              "region": "sea",
+              "divisions": {
+                  "region": "sea",
+                  "points": 356,
+                  "bracket": false,
+                  "wins": 11,
+                  "losses": 9,
+                  "winRatio": 0.55,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/eu\/2136599\/draco\/hots\/1v1",
+              "bnetURL": "http:\/\/eu.battle.net\/sc2\/en\/profile\/2136599\/1\/draco\/",
+              "region": "eu",
+              "divisions": {
+                  "region": "eu",
+                  "points": 0,
+                  "bracket": false,
+                  "wins": 1,
+                  "losses": 1,
+                  "winRatio": 0.5,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/eu\/3435014\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/eu.battle.net\/sc2\/en\/profile\/3435014\/1\/Draco\/",
+              "region": "eu",
+              "divisions": {
+                  "region": "eu",
+                  "points": 34,
+                  "bracket": false,
+                  "wins": 1,
+                  "losses": 1,
+                  "winRatio": 0.5,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/us\/741479\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/741479\/1\/Draco\/",
+              "region": "us",
+              "divisions": {
+                  "region": "us",
+                  "points": 816,
+                  "bracket": false,
+                  "wins": 28,
+                  "losses": 37,
+                  "winRatio": 0.430769230769,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/eu\/3205984\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/eu.battle.net\/sc2\/en\/profile\/3205984\/1\/Draco\/",
+              "region": "eu",
+              "divisions": {
+                  "region": "eu",
+                  "points": 0,
+                  "bracket": false,
+                  "wins": 0,
+                  "losses": 1,
+                  "winRatio": 0,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " DRACO ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/kr\/4366483\/DRACO\/hots\/1v1",
+              "bnetURL": "http:\/\/kr.battle.net\/sc2\/ko\/profile\/4366483\/1\/DRACO\/",
+              "region": "kr",
+              "divisions": {
+                  "region": "kr",
+                  "points": 0,
+                  "bracket": false,
+                  "wins": 4,
+                  "losses": 2,
+                  "winRatio": 0.666666666667,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " [UPEU] Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/eu\/1246364\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/eu.battle.net\/sc2\/en\/profile\/1246364\/1\/Draco\/",
+              "region": "eu",
+              "divisions": {
+                  "region": "eu",
+                  "points": 0,
+                  "bracket": false,
+                  "wins": 2,
+                  "losses": 7,
+                  "winRatio": 0.222222222222,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/us\/1280808\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/1280808\/1\/Draco\/",
+              "region": "us",
+              "divisions": {
+                  "region": "us",
+                  "points": 0,
+                  "bracket": false,
+                  "wins": 0,
+                  "losses": 2,
+                  "winRatio": 0,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/eu\/522555\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/eu.battle.net\/sc2\/en\/profile\/522555\/1\/Draco\/",
+              "region": "eu",
+              "divisions": {
+                  "region": "eu",
+                  "points": 240,
+                  "bracket": false,
+                  "wins": 9,
+                  "losses": 3,
+                  "winRatio": 0.75,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/tw\/57698\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/tw.battle.net\/sc2\/zh\/profile\/57698\/2\/Draco\/",
+              "region": "tw",
+              "divisions": {
+                  "region": "tw",
+                  "points": 326,
+                  "bracket": false,
+                  "wins": 12,
+                  "losses": 2,
+                  "winRatio": 0.857142857143,
+                  "rank": false,
+                  "name": null
+              }
+          }, {
+              "name": " Draco ",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/character\/eu\/2566418\/Draco\/hots\/1v1",
+              "bnetURL": "http:\/\/eu.battle.net\/sc2\/en\/profile\/2566418\/1\/Draco\/",
+              "region": "eu",
+              "divisions": {
+                  "region": "eu",
+                  "points": 166,
+                  "bracket": false,
+                  "wins": 7,
+                  "losses": 3,
+                  "winRatio": 0.7,
+                  "rank": false,
+                  "name": null
+              }
+          }]
+      }
+  }

@@ -1,0 +1,212 @@
+@import "globals.scss";
+@import "../../bower_components/foundation/scss/normalize.scss";
+@import "../../bower_components/foundation/scss/foundation.scss";
+@import "fonts.scss";
+
+/*****************************************************************
+  * General
+  *
+  *
+  *
+  **/
+@mixin breakpoint($point) {
+    @if $point == wide {
+        @media (max-width: 1600px) { @content; }
+    }
+    @else if $point == medium {
+        @media (min-width: 651px) { @content; }
+    }
+    @else if $point == small {
+        @media (max-width: 650px)  { @content; }
+    }
+}
+
+html {
+    @include breakpoint(medium) { 
+        background: #000000 url(../images/backgrounds/bg-desktop.png) no-repeat; 
+    }
+    @include breakpoint(small) {
+        background: #000000 url(../images/backgrounds/bg-desktop.png) no-repeat; 
+    }
+    body {
+        background: transparent;
+        font-family: "Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+    }
+}
+
+h3, h4 {
+    font-family: "Lucida Sans Unicode",Arial,Helvetica,sans-serif;
+}
+
+h4 {
+    border-bottom: 2px solid #6ea6ca;
+} 
+
+#hd {
+    text-align: center;
+    max-height: 132px;
+    img {
+        max-height: 160px
+    }
+}
+
+#wrapper {
+    background: #000D20;
+    width: 70%;
+    margin: 10px auto;
+    padding: 20px 0;
+    border: 1px solid #002555;
+    border-radius: 11px;
+    box-shadow: 1px -15px 130px #FFFFFF;
+    @include breakpoint(small) { 
+        width: 95%;
+        background: rgba(0, 13, 32, 0.4);
+        /* accordion */
+        .columns, .recent-viewed {
+            &.collapsed i:before {
+                content: "\f003";
+            }
+            padding: 0;
+            h4 {
+                background: #0066BB;
+                background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #137BD3), color-stop(100%, #263D57));
+                padding: 5px 20px;
+                margin: 0;
+                display: block;
+                height: 45px;
+                cursor: pointer;
+                color: #FFFFFF;
+                line-height: 33px;
+                &:hover {
+                     background: #6EA6CA;
+                }
+                @include i-class(search,"02e");
+                i:before {
+                    float: right;
+                    font-family: $fontName;
+                    font-style: normal;
+                    content: "\f004";
+                }
+            }
+            div.bd {
+                padding: 5% 5%;
+                &.hidden {
+                    display: none;
+                }
+            }
+        }
+    }
+}
+
+tbody tr {
+    cursor: pointer;
+    border-bottom: 1px solid #00213E;
+    &:hover {
+        background: $primary-color !important;
+        color: #FFFFFF;
+    }
+    .name {
+        color: #00D683;
+    }
+}
+
+.clear {
+    clear: both;
+}
+
+
+
+/*****************************************************************
+  * Search Form  
+  *
+  *
+  *
+  **/
+#search-form {
+    @include breakpoint(small) {
+        button {
+            margin: 0 auto;
+            display: block;
+            padding-left: 15%;
+            padding-right: 15%;
+        }
+    }
+}
+
+/*****************************************************************
+  * Results 
+  *
+  *
+  *
+  **/
+
+.players-results {
+    p {
+        text-align: center;
+        padding: 20%;
+    }
+    .win {
+        color: #5DA423;
+    }
+    .loss {
+        color: #C60D13;
+    }
+}
+
+/*****************************************************************
+  * Player Info 
+  *
+  *
+  *
+  **/
+.player-info {
+    background: url(../images/backgrounds/bg-player-info-desktop.png) no-repeat right top;
+    @include breakpoint(small) { 
+        background: url(../images/backgrounds/bg-player-info-mobile.png) no-repeat right top;
+    }
+    .portrait {
+        float: left;
+        width: 112px;
+        height: 112px;
+        position: relative;
+        margin: 0px 20px 20px 0;
+        span {
+            width: 90px;
+            height: 90px;
+            display: block;
+            position: absolute;
+            left: 10px;
+            top: 10px;
+        }
+        div {
+            width: 112px;
+            height: 112px;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+    }
+    h3 {
+        float: left;
+    }
+    .best-finishes {
+        padding: 10px 0;
+        line-height: 1.9em;
+
+        .badge-item {
+            border-bottom: 1px dotted #c1ffff;
+            padding: 10px 0 10px 0;
+            .badge {
+                width: 45px;
+                height: 45px;
+                background-position: -100px 0 !important;
+                float: left;
+                margin: 0 10px 0 0;
+            }
+            .mode {
+                color: #0058a2;
+                font-size: 83%;
+            }
+        }
+    }
+}

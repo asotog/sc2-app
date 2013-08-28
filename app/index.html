@@ -1,0 +1,99 @@
+<!doctype html>
+<!--[if lt IE 7]>
+    <html class="no-js lt-ie9 lt-ie8 lt-ie7">
+    <![endif]-->
+    <!--[if IE 7]>
+        <html class="no-js lt-ie9 lt-ie8">
+        <![endif]-->
+        <!--[if IE 8]>
+            <html class="no-js lt-ie9">
+            <![endif]-->
+            <!--[if gt IE 8]>
+                <!-->
+                <html class="no-js">
+                <!--<![endif]-->
+                
+                <head>
+                    <meta charset="utf-8">
+                    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+                    <title></title>
+                    <meta name="description" content="">
+                    <meta name="viewport" content="width=device-width">
+                    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+                    <!-- build:css({.tmp,app}) styles/main.css -->
+                    <link rel="stylesheet" href="styles/main.css">
+                    <!-- endbuild -->
+                </head>
+                
+                <body ng-app="sc2InfoApp">
+                    <div id="hd">
+                        <a href="/#/">
+                            <img src="/images/backgrounds/logo.png" />
+                        </a>
+                    </div>
+                    
+                    <!-- CONTENTS -->
+                    <div id="wrapper">
+                        <div class="row display" mobile-accordion="{maxWidth: 480}">
+                            <div class="large-3 columns section">
+                                <h4 class="subtitle">Search... <i class="general foundicon-"></i></h4>
+                                <div class="bd">
+                                    <form id="search-form" class="custom" name="player_search" ng-controller="SearchCtrl">
+                                        <label>Player Name:</label>
+                                        <input type="text" placeholder="Player Name..." name="player" ng-model="search.player" required>
+                                        <label>Game:</label>
+                                        <select name="game" ng-model="search.game" class="medium">
+                                            <option value="hots">Heart Of The Swarm</option>
+                                            <option value="wol">Wings Of Liberty</option>
+                                        </select>
+                                        <label>Region:</label>
+                                        <select name="region" ng-model="search.region">
+                                            <option value="global">Global</option>
+                                        </select>
+                                        <label>League:</label>
+                                        <select name="league" ng-model="search.league">
+                                            <option value="all">All</option>
+                                        </select>
+                                        <label>Game Type:</label>
+                                        <select name="ladder" ng-model="search.ladder">
+                                            <option value="1v1">1V1</option>
+                                            <option value="2v2">2V2</option>
+                                            <option value="3v3">3V3</option>
+                                        </select>
+                                        <button class="button" ng-click="doSearch()" ng-disabled="player_search.$invalid">Search</button>
+                                    </form>
+                                </div>
+                                
+                            </div>
+                            <div class="large-8 columns">
+                                <div ng-view="" class="section"></div>
+                                
+                                <div class="recent-viewed">
+                                    <h4 class="subtitle">Recently Viewed...<i class="general foundicon-"></i></h4>
+                                    <div class="bd">
+    
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <footer></footer>
+                    <script src="jslibs/foundation.jquery.min.js"></script>
+                    <script src="jslibs/jquery.plugins.min.js"></script>
+                    <script src="jslibs/angular.min.js"></script>
+                    <!-- build:js({.tmp,app}) scripts/scripts.js -->
+                    <script src="scripts/app.js"></script>
+                    <script src="scripts/controllers/search.js"></script>
+                    <script src="scripts/controllers/searchResults.js"></script>
+                    <script src="scripts/services/PlayerSearch.js"></script>
+                    <script src="scripts/controllers/PlayerInfo.js"></script>
+                    <script src="scripts/controllers/playerInfo.js"></script>
+                    <script src="scripts/services/PlayerInfo.js"></script>
+                    <script src="scripts/directives/mobileAccordion.js"></script>
+                    <!-- endbuild -->
+                    <script>
+                        $(document).foundation();
+                    </script>
+                </body>
+                
+                </html>

@@ -1,0 +1,1913 @@
+  {
+      "season": 2013,
+      "name": "Division Khaydarin Tau",
+      "league": "silver",
+      "region": "us",
+      "bracket": 1,
+      "type": "random",
+      "rank": 13,
+      "points": 631,
+      "wins": 24,
+      "losses": 20,
+      "ranks": [{
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 1,
+              "prevRank": 1,
+              "points": 1231,
+              "wins": 52,
+              "losses": 38,
+              "winRatio": 0.577777777778
+          },
+          "rank": 1,
+          "players": [{
+              "race": "terran",
+              "name": "Alakran",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/58590\/2\/Alakran\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/tw\/58590\/Alakran"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 2,
+              "prevRank": 1,
+              "points": 1150,
+              "wins": 80,
+              "losses": 77,
+              "winRatio": 0.509554140127
+          },
+          "rank": 2,
+          "players": [{
+              "race": "protoss",
+              "name": "ESTEFAN",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/24875\/2\/ESTEFAN\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/24875\/ESTEFAN"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 3,
+              "prevRank": 4,
+              "points": 1147,
+              "wins": 57,
+              "losses": 54,
+              "winRatio": 0.513513513514
+          },
+          "rank": 3,
+          "players": [{
+              "race": "terran",
+              "name": "greenstbully",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/995722\/1\/greenstbully\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/995722\/greenstbully"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 4,
+              "prevRank": 2,
+              "points": 1128,
+              "wins": 58,
+              "losses": 51,
+              "winRatio": 0.532110091743
+          },
+          "rank": 4,
+          "players": [{
+              "race": "protoss",
+              "name": "XxMudkipxX",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2387564\/1\/XxMudkipxX\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2387564\/XxMudkipxX"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 5,
+              "prevRank": 7,
+              "points": 1124,
+              "wins": 61,
+              "losses": 57,
+              "winRatio": 0.516949152542
+          },
+          "rank": 5,
+          "players": [{
+              "race": "terran",
+              "name": "Sirius",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/530961\/2\/Sirius\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/530961\/Sirius"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 6,
+              "prevRank": 8,
+              "points": 1122,
+              "wins": 46,
+              "losses": 44,
+              "winRatio": 0.511111111111
+          },
+          "rank": 6,
+          "players": [{
+              "race": "terran",
+              "name": "Hector",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/626257\/2\/Hector\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/626257\/Hector"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 7,
+              "prevRank": 6,
+              "points": 1075,
+              "wins": 131,
+              "losses": 192,
+              "winRatio": 0.405572755418
+          },
+          "rank": 7,
+          "players": [{
+              "race": "protoss",
+              "name": "Uplink",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/4667720\/1\/Uplink\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/4667720\/Uplink"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 8,
+              "prevRank": 8,
+              "points": 1073,
+              "wins": 75,
+              "losses": 83,
+              "winRatio": 0.474683544304
+          },
+          "rank": 8,
+          "players": [{
+              "race": "terran",
+              "name": "JIM",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/760075\/1\/JIM\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/760075\/JIM"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 9,
+              "prevRank": 9,
+              "points": 1016,
+              "wins": 43,
+              "losses": 34,
+              "winRatio": 0.558441558442
+          },
+          "rank": 9,
+          "players": [{
+              "race": "terran",
+              "name": "[KGFC] Bill",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3243465\/1\/Bill\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3243465\/Bill"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 10,
+              "prevRank": 12,
+              "points": 804,
+              "wins": 34,
+              "losses": 9,
+              "winRatio": 0.790697674419
+          },
+          "rank": 10,
+          "players": [{
+              "race": "zerg",
+              "name": "[TvK] NemaTode",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2057322\/1\/NemaTode\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2057322\/NemaTode"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 11,
+              "prevRank": 11,
+              "points": 786,
+              "wins": 30,
+              "losses": 26,
+              "winRatio": 0.535714285714
+          },
+          "rank": 11,
+          "players": [{
+              "race": "protoss",
+              "name": "LeBaron",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3725133\/1\/LeBaron\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3725133\/LeBaron"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 12,
+              "prevRank": 11,
+              "points": 727,
+              "wins": 50,
+              "losses": 62,
+              "winRatio": 0.446428571429
+          },
+          "rank": 12,
+          "players": [{
+              "race": "terran",
+              "name": "Labowski",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/745091\/1\/Labowski\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/745091\/Labowski"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 13,
+              "prevRank": 13,
+              "points": 631,
+              "wins": 24,
+              "losses": 20,
+              "winRatio": 0.545454545455
+          },
+          "rank": 13,
+          "players": [{
+              "race": "terran",
+              "name": "Tankan",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3923192\/1\/Tankan\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3923192\/Tankan"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 14,
+              "prevRank": 16,
+              "points": 587,
+              "wins": 26,
+              "losses": 14,
+              "winRatio": 0.65
+          },
+          "rank": 14,
+          "players": [{
+              "race": "protoss",
+              "name": "Misclick",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2536389\/1\/Misclick\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2536389\/Misclick"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 15,
+              "prevRank": 74,
+              "points": 576,
+              "wins": 22,
+              "losses": 6,
+              "winRatio": 0.785714285714
+          },
+          "rank": 15,
+          "players": [{
+              "race": "terran",
+              "name": "Jtiv",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3271207\/1\/Jtiv\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3271207\/Jtiv"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-07-27",
+              "rank": 16,
+              "prevRank": 27,
+              "points": 570,
+              "wins": 22,
+              "losses": 12,
+              "winRatio": 0.647058823529
+          },
+          "rank": 16,
+          "players": [{
+              "race": "terran",
+              "name": "Simplicity",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3005158\/1\/Simplicity\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3005158\/Simplicity"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 17,
+              "prevRank": 14,
+              "points": 535,
+              "wins": 28,
+              "losses": 24,
+              "winRatio": 0.538461538462
+          },
+          "rank": 17,
+          "players": [{
+              "race": "terran",
+              "name": "TheCount",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3958645\/1\/TheCount\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3958645\/TheCount"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 18,
+              "prevRank": 16,
+              "points": 501,
+              "wins": 26,
+              "losses": 21,
+              "winRatio": 0.553191489362
+          },
+          "rank": 18,
+          "players": [{
+              "race": "protoss",
+              "name": "gary",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2768977\/1\/gary\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2768977\/gary"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 19,
+              "prevRank": 19,
+              "points": 476,
+              "wins": 16,
+              "losses": 21,
+              "winRatio": 0.432432432432
+          },
+          "rank": 19,
+          "players": [{
+              "race": "terran",
+              "name": "Plasma",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3410922\/1\/Plasma\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3410922\/Plasma"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-07-04",
+              "rank": 20,
+              "prevRank": 26,
+              "points": 457,
+              "wins": 21,
+              "losses": 54,
+              "winRatio": 0.28
+          },
+          "rank": 20,
+          "players": [{
+              "race": "terran",
+              "name": "Retardo",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/4627937\/1\/Retardo\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/4627937\/Retardo"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 21,
+              "prevRank": 4,
+              "points": 444,
+              "wins": 16,
+              "losses": 7,
+              "winRatio": 0.695652173913
+          },
+          "rank": 21,
+          "players": [{
+              "race": "terran",
+              "name": "[NEWBS] Mimic",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2070597\/1\/Mimic\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2070597\/Mimic"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 22,
+              "prevRank": 20,
+              "points": 434,
+              "wins": 17,
+              "losses": 11,
+              "winRatio": 0.607142857143
+          },
+          "rank": 22,
+          "players": [{
+              "race": "protoss",
+              "name": "JordanPB",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3632707\/1\/JordanPB\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3632707\/JordanPB"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 23,
+              "prevRank": 25,
+              "points": 427,
+              "wins": 20,
+              "losses": 15,
+              "winRatio": 0.571428571429
+          },
+          "rank": 23,
+          "players": [{
+              "race": "zerg",
+              "name": "warprod",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2512572\/1\/warprod\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2512572\/warprod"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 24,
+              "prevRank": 28,
+              "points": 392,
+              "wins": 15,
+              "losses": 5,
+              "winRatio": 0.75
+          },
+          "rank": 24,
+          "players": [{
+              "race": "random",
+              "name": "Prey",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3123644\/1\/Prey\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3123644\/Prey"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 25,
+              "prevRank": 27,
+              "points": 386,
+              "wins": 13,
+              "losses": 15,
+              "winRatio": 0.464285714286
+          },
+          "rank": 25,
+          "players": [{
+              "race": "zerg",
+              "name": "Guichomingo",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/706681\/2\/Guichomingo\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/706681\/Guichomingo"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-29",
+              "rank": 26,
+              "prevRank": 23,
+              "points": 379,
+              "wins": 14,
+              "losses": 19,
+              "winRatio": 0.424242424242
+          },
+          "rank": 26,
+          "players": [{
+              "race": "zerg",
+              "name": "[BkrWht] Springwater",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3376825\/1\/Springwater\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3376825\/Springwater"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 27,
+              "prevRank": 15,
+              "points": 369,
+              "wins": 13,
+              "losses": 18,
+              "winRatio": 0.41935483871
+          },
+          "rank": 27,
+          "players": [{
+              "race": "protoss",
+              "name": "Bribe",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/4198044\/1\/Bribe\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/4198044\/Bribe"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 28,
+              "prevRank": 29,
+              "points": 352,
+              "wins": 13,
+              "losses": 6,
+              "winRatio": 0.684210526316
+          },
+          "rank": 28,
+          "players": [{
+              "race": "terran",
+              "name": "Banzini",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/1455596\/1\/Banzini\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/1455596\/Banzini"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 29,
+              "prevRank": 0,
+              "points": 303,
+              "wins": 17,
+              "losses": 6,
+              "winRatio": 0.739130434783
+          },
+          "rank": 29,
+          "players": [{
+              "race": "random",
+              "name": "ItzThatDude",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3352804\/1\/ItzThatDude\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3352804\/ItzThatDude"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 30,
+              "prevRank": 20,
+              "points": 300,
+              "wins": 12,
+              "losses": 4,
+              "winRatio": 0.75
+          },
+          "rank": 30,
+          "players": [{
+              "race": "protoss",
+              "name": "[KoRx] Atriae",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/637781\/1\/Atriae\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/637781\/Atriae"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 31,
+              "prevRank": 21,
+              "points": 290,
+              "wins": 8,
+              "losses": 3,
+              "winRatio": 0.727272727273
+          },
+          "rank": 31,
+          "players": [{
+              "race": "terran",
+              "name": "uncleBC",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3876078\/1\/uncleBC\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3876078\/uncleBC"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 32,
+              "prevRank": 34,
+              "points": 284,
+              "wins": 10,
+              "losses": 9,
+              "winRatio": 0.526315789474
+          },
+          "rank": 32,
+          "players": [{
+              "race": "protoss",
+              "name": "Akuseru",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/9849\/2\/Akuseru\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/9849\/Akuseru"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 33,
+              "prevRank": 34,
+              "points": 272,
+              "wins": 11,
+              "losses": 2,
+              "winRatio": 0.846153846154
+          },
+          "rank": 33,
+          "players": [{
+              "race": "random",
+              "name": "Arthur",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/1923911\/1\/Arthur\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/1923911\/Arthur"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 34,
+              "prevRank": 27,
+              "points": 268,
+              "wins": 10,
+              "losses": 9,
+              "winRatio": 0.526315789474
+          },
+          "rank": 34,
+          "players": [{
+              "race": "protoss",
+              "name": "\u00d1ior",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/637007\/2\/%C3%91ior\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/637007\/%C3%91ior"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 35,
+              "prevRank": 34,
+              "points": 236,
+              "wins": 13,
+              "losses": 25,
+              "winRatio": 0.342105263158
+          },
+          "rank": 35,
+          "players": [{
+              "race": "terran",
+              "name": "[tunes] TrapStaR",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3251868\/1\/TrapStaR\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3251868\/TrapStaR"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-22",
+              "rank": 36,
+              "prevRank": 0,
+              "points": 232,
+              "wins": 5,
+              "losses": 5,
+              "winRatio": 0.5
+          },
+          "rank": 36,
+          "players": [{
+              "race": "protoss",
+              "name": "[TBBB] CounterDrone",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3108176\/1\/CounterDrone\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3108176\/CounterDrone"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 37,
+              "prevRank": 52,
+              "points": 222,
+              "wins": 7,
+              "losses": 0,
+              "winRatio": 1
+          },
+          "rank": 37,
+          "players": [{
+              "race": "terran",
+              "name": "JunoBeach",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2768541\/1\/JunoBeach\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2768541\/JunoBeach"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-07-17",
+              "rank": 38,
+              "prevRank": 35,
+              "points": 216,
+              "wins": 7,
+              "losses": 23,
+              "winRatio": 0.233333333333
+          },
+          "rank": 38,
+          "players": [{
+              "race": "protoss",
+              "name": "Kaija",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2615875\/1\/Kaija\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2615875\/Kaija"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 39,
+              "prevRank": 19,
+              "points": 209,
+              "wins": 8,
+              "losses": 14,
+              "winRatio": 0.363636363636
+          },
+          "rank": 39,
+          "players": [{
+              "race": "terran",
+              "name": "DJSKY",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3747593\/1\/DJSKY\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3747593\/DJSKY"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-07-06",
+              "rank": 40,
+              "prevRank": 0,
+              "points": 202,
+              "wins": 8,
+              "losses": 6,
+              "winRatio": 0.571428571429
+          },
+          "rank": 40,
+          "players": [{
+              "race": "terran",
+              "name": "Himitsu",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2006301\/1\/Himitsu\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2006301\/Himitsu"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 41,
+              "prevRank": 42,
+              "points": 162,
+              "wins": 7,
+              "losses": 6,
+              "winRatio": 0.538461538462
+          },
+          "rank": 41,
+          "players": [{
+              "race": "protoss",
+              "name": "oOunoOo",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2886873\/1\/oOunoOo\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2886873\/oOunoOo"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-07-24",
+              "rank": 42,
+              "prevRank": 49,
+              "points": 154,
+              "wins": 5,
+              "losses": 15,
+              "winRatio": 0.25
+          },
+          "rank": 42,
+          "players": [{
+              "race": "terran",
+              "name": "mcbjj",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/561017\/1\/mcbjj\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/561017\/mcbjj"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 43,
+              "prevRank": 53,
+              "points": 144,
+              "wins": 6,
+              "losses": 5,
+              "winRatio": 0.545454545455
+          },
+          "rank": 43,
+          "players": [{
+              "race": "protoss",
+              "name": "[Cosmic] Specimen",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2760265\/1\/Specimen\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2760265\/Specimen"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 44,
+              "prevRank": 47,
+              "points": 142,
+              "wins": 6,
+              "losses": 14,
+              "winRatio": 0.3
+          },
+          "rank": 44,
+          "players": [{
+              "race": "terran",
+              "name": "cortafierro",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/118602\/2\/cortafierro\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/118602\/cortafierro"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 45,
+              "prevRank": 95,
+              "points": 140,
+              "wins": 5,
+              "losses": 11,
+              "winRatio": 0.3125
+          },
+          "rank": 45,
+          "players": [{
+              "race": "zerg",
+              "name": "murderer",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2686849\/1\/murderer\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2686849\/murderer"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 46,
+              "prevRank": 0,
+              "points": 137,
+              "wins": 3,
+              "losses": 9,
+              "winRatio": 0.25
+          },
+          "rank": 46,
+          "players": [{
+              "race": "terran",
+              "name": "MuD",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/1180374\/1\/MuD\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/1180374\/MuD"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 47,
+              "prevRank": 0,
+              "points": 128,
+              "wins": 8,
+              "losses": 17,
+              "winRatio": 0.32
+          },
+          "rank": 47,
+          "players": [{
+              "race": "terran",
+              "name": "NoTime",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2148760\/1\/NoTime\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2148760\/NoTime"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 48,
+              "prevRank": 0,
+              "points": 128,
+              "wins": 6,
+              "losses": 2,
+              "winRatio": 0.75
+          },
+          "rank": 48,
+          "players": [{
+              "race": "terran",
+              "name": "[Cull] styliN",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/4712713\/1\/styliN\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/4712713\/styliN"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 49,
+              "prevRank": 47,
+              "points": 126,
+              "wins": 5,
+              "losses": 10,
+              "winRatio": 0.333333333333
+          },
+          "rank": 49,
+          "players": [{
+              "race": "protoss",
+              "name": "Felipexx",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/533539\/2\/Felipexx\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/533539\/Felipexx"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 50,
+              "prevRank": 50,
+              "points": 116,
+              "wins": 4,
+              "losses": 7,
+              "winRatio": 0.363636363636
+          },
+          "rank": 50,
+          "players": [{
+              "race": "terran",
+              "name": "[RuEc] IMPERA",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3929799\/1\/IMPERA\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3929799\/IMPERA"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 51,
+              "prevRank": 55,
+              "points": 114,
+              "wins": 5,
+              "losses": 0,
+              "winRatio": 1
+          },
+          "rank": 51,
+          "players": [{
+              "race": "terran",
+              "name": "[pekas] pekas",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/441906\/2\/pekas\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/441906\/pekas"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 52,
+              "prevRank": 75,
+              "points": 112,
+              "wins": 5,
+              "losses": 11,
+              "winRatio": 0.3125
+          },
+          "rank": 52,
+          "players": [{
+              "race": "terran",
+              "name": "Jonathan",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3040590\/1\/Jonathan\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3040590\/Jonathan"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 53,
+              "prevRank": 57,
+              "points": 110,
+              "wins": 3,
+              "losses": 5,
+              "winRatio": 0.375
+          },
+          "rank": 53,
+          "players": [{
+              "race": "terran",
+              "name": "Destroyer",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/1023550\/1\/Destroyer\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/1023550\/Destroyer"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 54,
+              "prevRank": 0,
+              "points": 106,
+              "wins": 4,
+              "losses": 0,
+              "winRatio": 1
+          },
+          "rank": 54,
+          "players": [{
+              "race": "zerg",
+              "name": "[Kesha] JKlol",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2978604\/1\/JKlol\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2978604\/JKlol"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 55,
+              "prevRank": 50,
+              "points": 106,
+              "wins": 4,
+              "losses": 11,
+              "winRatio": 0.266666666667
+          },
+          "rank": 55,
+          "players": [{
+              "race": "protoss",
+              "name": "chero",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/386583\/2\/chero\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/386583\/chero"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 56,
+              "prevRank": 54,
+              "points": 104,
+              "wins": 3,
+              "losses": 5,
+              "winRatio": 0.375
+          },
+          "rank": 56,
+          "players": [{
+              "race": "terran",
+              "name": "[GGCity] llllllllllll",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/4675685\/1\/llllllllllll\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/4675685\/llllllllllll"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 57,
+              "prevRank": 37,
+              "points": 99,
+              "wins": 7,
+              "losses": 12,
+              "winRatio": 0.368421052632
+          },
+          "rank": 57,
+          "players": [{
+              "race": "protoss",
+              "name": "FLACOMEN",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/588934\/2\/FLACOMEN\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/588934\/FLACOMEN"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 58,
+              "prevRank": 0,
+              "points": 62,
+              "wins": 3,
+              "losses": 3,
+              "winRatio": 0.5
+          },
+          "rank": 58,
+          "players": [{
+              "race": "zerg",
+              "name": "[OsK] ENAVARRETE",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/4260649\/1\/ENAVARRETE\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/4260649\/ENAVARRETE"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 59,
+              "prevRank": 0,
+              "points": 60,
+              "wins": 3,
+              "losses": 2,
+              "winRatio": 0.6
+          },
+          "rank": 59,
+          "players": [{
+              "race": "random",
+              "name": "wafflefriez",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2328377\/1\/wafflefriez\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2328377\/wafflefriez"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-07-06",
+              "rank": 60,
+              "prevRank": 68,
+              "points": 60,
+              "wins": 3,
+              "losses": 3,
+              "winRatio": 0.5
+          },
+          "rank": 60,
+          "players": [{
+              "race": "terran",
+              "name": "[BCSMX] Megalodon",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/582214\/2\/Megalodon\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/582214\/Megalodon"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-21",
+              "rank": 61,
+              "prevRank": 0,
+              "points": 58,
+              "wins": 3,
+              "losses": 3,
+              "winRatio": 0.5
+          },
+          "rank": 61,
+          "players": [{
+              "race": "protoss",
+              "name": "Kirarawr",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3385199\/1\/Kirarawr\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3385199\/Kirarawr"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-07-23",
+              "rank": 62,
+              "prevRank": 0,
+              "points": 58,
+              "wins": 2,
+              "losses": 2,
+              "winRatio": 0.5
+          },
+          "rank": 62,
+          "players": [{
+              "race": "terran",
+              "name": "Eman",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3412501\/1\/Eman\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3412501\/Eman"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 63,
+              "prevRank": 0,
+              "points": 58,
+              "wins": 3,
+              "losses": 0,
+              "winRatio": 1
+          },
+          "rank": 63,
+          "players": [{
+              "race": "zerg",
+              "name": "Syko",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2137457\/1\/Syko\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2137457\/Syko"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-15",
+              "rank": 64,
+              "prevRank": 76,
+              "points": 58,
+              "wins": 3,
+              "losses": 0,
+              "winRatio": 1
+          },
+          "rank": 64,
+          "players": [{
+              "race": "zerg",
+              "name": "[Core] Defiance",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3977492\/1\/Defiance\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3977492\/Defiance"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-07-16",
+              "rank": 65,
+              "prevRank": 78,
+              "points": 58,
+              "wins": 2,
+              "losses": 1,
+              "winRatio": 0.666666666667
+          },
+          "rank": 65,
+          "players": [{
+              "race": "terran",
+              "name": "TerryTate",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3330592\/1\/TerryTate\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3330592\/TerryTate"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-08-16",
+              "rank": 66,
+              "prevRank": 0,
+              "points": 48,
+              "wins": 2,
+              "losses": 0,
+              "winRatio": 1
+          },
+          "rank": 66,
+          "players": [{
+              "race": "terran",
+              "name": "Valkier",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/1846094\/1\/Valkier\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/1846094\/Valkier"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 67,
+              "prevRank": 0,
+              "points": 48,
+              "wins": 1,
+              "losses": 1,
+              "winRatio": 0.5
+          },
+          "rank": 67,
+          "players": [{
+              "race": "terran",
+              "name": "vNmDragon",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2293370\/1\/vNmDragon\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2293370\/vNmDragon"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 68,
+              "prevRank": 64,
+              "points": 40,
+              "wins": 1,
+              "losses": 3,
+              "winRatio": 0.25
+          },
+          "rank": 68,
+          "players": [{
+              "race": "protoss",
+              "name": "Horandum",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/433661\/2\/Horandum\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/433661\/Horandum"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 69,
+              "prevRank": 0,
+              "points": 40,
+              "wins": 1,
+              "losses": 1,
+              "winRatio": 0.5
+          },
+          "rank": 69,
+          "players": [{
+              "race": "zerg",
+              "name": "[FrQc] williamvohl",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/1490372\/1\/williamvohl\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/1490372\/williamvohl"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 70,
+              "prevRank": 0,
+              "points": 38,
+              "wins": 2,
+              "losses": 1,
+              "winRatio": 0.666666666667
+          },
+          "rank": 70,
+          "players": [{
+              "race": "zerg",
+              "name": "rakija",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/4378729\/1\/rakija\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/4378729\/rakija"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-07-05",
+              "rank": 71,
+              "prevRank": 0,
+              "points": 36,
+              "wins": 2,
+              "losses": 0,
+              "winRatio": 1
+          },
+          "rank": 71,
+          "players": [{
+              "race": "random",
+              "name": "Vailfen",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2626482\/1\/Vailfen\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2626482\/Vailfen"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 72,
+              "prevRank": 0,
+              "points": 30,
+              "wins": 2,
+              "losses": 1,
+              "winRatio": 0.666666666667
+          },
+          "rank": 72,
+          "players": [{
+              "race": "terran",
+              "name": "NinjaSayWHAT",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/412623\/1\/NinjaSayWHAT\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/412623\/NinjaSayWHAT"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 73,
+              "prevRank": 80,
+              "points": 30,
+              "wins": 2,
+              "losses": 2,
+              "winRatio": 0.5
+          },
+          "rank": 73,
+          "players": [{
+              "race": "protoss",
+              "name": "[lReaLl] KillaRich",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3206591\/1\/KillaRich\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3206591\/KillaRich"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 74,
+              "prevRank": 0,
+              "points": 30,
+              "wins": 2,
+              "losses": 0,
+              "winRatio": 1
+          },
+          "rank": 74,
+          "players": [{
+              "race": "random",
+              "name": "DJDEATHZILLA",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/1337816\/1\/DJDEATHZILLA\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/1337816\/DJDEATHZILLA"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-07-10",
+              "rank": 75,
+              "prevRank": 0,
+              "points": 30,
+              "wins": 2,
+              "losses": 1,
+              "winRatio": 0.666666666667
+          },
+          "rank": 75,
+          "players": [{
+              "race": "terran",
+              "name": "[SFP] Delmin",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/466787\/1\/Delmin\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/466787\/Delmin"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 76,
+              "prevRank": 88,
+              "points": 30,
+              "wins": 1,
+              "losses": 3,
+              "winRatio": 0.25
+          },
+          "rank": 76,
+          "players": [{
+              "race": "terran",
+              "name": "Dave",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2500888\/1\/Dave\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2500888\/Dave"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-19",
+              "rank": 77,
+              "prevRank": 0,
+              "points": 30,
+              "wins": 1,
+              "losses": 2,
+              "winRatio": 0.333333333333
+          },
+          "rank": 77,
+          "players": [{
+              "race": "random",
+              "name": "MajorLeeMan",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3403266\/1\/MajorLeeMan\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3403266\/MajorLeeMan"
+          }]
+      }, {
+          "division": {
+              "progress": 1,
+              "joinedDate": "2013-06-14",
+              "rank": 78,
+              "prevRank": 92,
+              "points": 30,
+              "wins": 1,
+              "losses": 6,
+              "winRatio": 0.142857142857
+          },
+          "rank": 78,
+          "players": [{
+              "race": "zerg",
+              "name": "croal",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/1105365\/1\/croal\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/1105365\/croal"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 79,
+              "prevRank": 62,
+              "points": 30,
+              "wins": 3,
+              "losses": 15,
+              "winRatio": 0.166666666667
+          },
+          "rank": 79,
+          "players": [{
+              "race": "terran",
+              "name": "[MAFIA] Toguro",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/604546\/2\/Toguro\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/604546\/Toguro"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 80,
+              "prevRank": 0,
+              "points": 30,
+              "wins": 2,
+              "losses": 0,
+              "winRatio": 1
+          },
+          "rank": 80,
+          "players": [{
+              "race": "protoss",
+              "name": "Limonadito",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2323760\/1\/Limonadito\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2323760\/Limonadito"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-21",
+              "rank": 81,
+              "prevRank": 0,
+              "points": 30,
+              "wins": 1,
+              "losses": 1,
+              "winRatio": 0.5
+          },
+          "rank": 81,
+          "players": [{
+              "race": "terran",
+              "name": "Daddy",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/997154\/1\/Daddy\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/997154\/Daddy"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 82,
+              "prevRank": 80,
+              "points": 0,
+              "wins": 0,
+              "losses": 2,
+              "winRatio": 0
+          },
+          "rank": 82,
+          "players": [{
+              "race": "protoss",
+              "name": "DFranklyn",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2068890\/1\/DFranklyn\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2068890\/DFranklyn"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 83,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 0,
+              "losses": 2,
+              "winRatio": 0
+          },
+          "rank": 83,
+          "players": [{
+              "race": "terran",
+              "name": "Splice",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/297471\/1\/Splice\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/297471\/Splice"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-08-10",
+              "rank": 84,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 1,
+              "losses": 0,
+              "winRatio": 1
+          },
+          "rank": 84,
+          "players": [{
+              "race": "zerg",
+              "name": "Fatality",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/486736\/2\/Fatality\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/la\/486736\/Fatality"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 85,
+              "prevRank": 75,
+              "points": 0,
+              "wins": 1,
+              "losses": 1,
+              "winRatio": 0.5
+          },
+          "rank": 85,
+          "players": [{
+              "race": "terran",
+              "name": "Bluecojiro",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/4724026\/1\/Bluecojiro\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/4724026\/Bluecojiro"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 86,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 1,
+              "losses": 0,
+              "winRatio": 1
+          },
+          "rank": 86,
+          "players": [{
+              "race": "protoss",
+              "name": "tysonpro",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3430211\/1\/tysonpro\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3430211\/tysonpro"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 87,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 1,
+              "losses": 0,
+              "winRatio": 1
+          },
+          "rank": 87,
+          "players": [{
+              "race": "zerg",
+              "name": "[SGO3] FGiamteuton",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/829187\/1\/FGiamteuton\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/829187\/FGiamteuton"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 88,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 0,
+              "losses": 1,
+              "winRatio": 0
+          },
+          "rank": 88,
+          "players": [{
+              "race": "protoss",
+              "name": "[TFAM] PRODutch",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3493890\/1\/PRODutch\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3493890\/PRODutch"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 89,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 2,
+              "losses": 7,
+              "winRatio": 0.222222222222
+          },
+          "rank": 89,
+          "players": [{
+              "race": "protoss",
+              "name": "TaoSabi",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/4779223\/1\/TaoSabi\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/4779223\/TaoSabi"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-07-11",
+              "rank": 90,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 0,
+              "losses": 1,
+              "winRatio": 0
+          },
+          "rank": 90,
+          "players": [{
+              "race": "protoss",
+              "name": "Firefly",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/1095297\/1\/Firefly\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/1095297\/Firefly"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 91,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 1,
+              "losses": 0,
+              "winRatio": 1
+          },
+          "rank": 91,
+          "players": [{
+              "race": "protoss",
+              "name": "Senshi",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/4316268\/1\/Senshi\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/4316268\/Senshi"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 92,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 0,
+              "losses": 1,
+              "winRatio": 0
+          },
+          "rank": 92,
+          "players": [{
+              "race": "protoss",
+              "name": "Phill",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3384124\/1\/Phill\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3384124\/Phill"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 93,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 0,
+              "losses": 1,
+              "winRatio": 0
+          },
+          "rank": 93,
+          "players": [{
+              "race": "zerg",
+              "name": "INFESTED",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2851162\/1\/INFESTED\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2851162\/INFESTED"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 94,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 0,
+              "losses": 1,
+              "winRatio": 0
+          },
+          "rank": 94,
+          "players": [{
+              "race": "terran",
+              "name": "Grannyboy",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3510692\/1\/Grannyboy\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3510692\/Grannyboy"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 95,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 1,
+              "losses": 1,
+              "winRatio": 0.5
+          },
+          "rank": 95,
+          "players": [{
+              "race": "zerg",
+              "name": "[BossT] Superproh",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2069096\/1\/Superproh\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2069096\/Superproh"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-17",
+              "rank": 96,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 0,
+              "losses": 1,
+              "winRatio": 0
+          },
+          "rank": 96,
+          "players": [{
+              "race": "protoss",
+              "name": "GAYngsta",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/1405767\/1\/GAYngsta\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/1405767\/GAYngsta"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-26",
+              "rank": 97,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 1,
+              "losses": 0,
+              "winRatio": 1
+          },
+          "rank": 97,
+          "players": [{
+              "race": "protoss",
+              "name": "LilxSaNi",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/986560\/1\/LilxSaNi\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/986560\/LilxSaNi"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-06-14",
+              "rank": 98,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 0,
+              "losses": 1,
+              "winRatio": 0
+          },
+          "rank": 98,
+          "players": [{
+              "race": "protoss",
+              "name": "Czawawi",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/3949275\/1\/Czawawi\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/3949275\/Czawawi"
+          }]
+      }, {
+          "division": {
+              "progress": 0,
+              "joinedDate": "2013-07-25",
+              "rank": 99,
+              "prevRank": 0,
+              "points": 0,
+              "wins": 0,
+              "losses": 3,
+              "winRatio": 0
+          },
+          "rank": 99,
+          "players": [{
+              "race": "terran",
+              "name": "MarcelMM",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/2784698\/1\/MarcelMM\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/2784698\/MarcelMM"
+          }]
+      }, {
+          "division": {
+              "progress": -1,
+              "joinedDate": "2013-06-14",
+              "rank": 100,
+              "prevRank": 98,
+              "points": 0,
+              "wins": 1,
+              "losses": 1,
+              "winRatio": 0.5
+          },
+          "rank": 100,
+          "players": [{
+              "race": "terran",
+              "name": "FLOSTRADAMUS",
+              "region": "us",
+              "bnetURL": "http:\/\/us.battle.net\/sc2\/en\/profile\/1681208\/1\/FLOSTRADAMUS\/",
+              "ranksURL": "http:\/\/www.sc2ranks.com\/us\/1681208\/FLOSTRADAMUS"
+          }]
+      }]
+  }

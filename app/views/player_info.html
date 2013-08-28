@@ -1,0 +1,26 @@
+<h4 class="subtitle">Player Information...<i class="general foundicon-search"></i></h4>
+<div class="bd" ng-show="player.name">
+    <div class="player-info">
+        <div class="portrait">
+            <span ng-style="{'background': 'url(' + player.profile_image + ') ' + player.x + 'px ' + player.y + 'px'}"></span>
+            <div ng-style="{'background': 'url(images/portraits/portrait-' + player.soloLeague + '.png)'}"></div>
+        </div>
+        <h3>{{player.name}}</h3>
+        <div class="clear"></div>
+        <span>{{player.season_games}} Games Played This Season</span>
+        
+        <div class="best-finishes">
+            <div class="badge-item">
+                <div ng-style="{'background': 'url(images/leagues/' + player.soloLeague + '-league.png)'}" class="badge"></div>
+                <div class="mode">1V1</div>
+                <div class="league-name">{{player.soloLeague}}</div>
+            </div>
+            <div class="badge-item">
+                <div ng-style="{'background': 'url(images/leagues/' + player.teamLeague + '-league.png)'}" class="badge"></div>
+                <div class="mode">TEAM</div>
+                <div class="league-name">{{player.teamLeague}}</div>
+            </div>
+        </div>
+        <a href="#" class="small button">Go To Ladder</a>
+    </div>
+</div>

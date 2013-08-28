@@ -1,0 +1,27 @@
+
+<h4 class="subtitle">Results...<i class="general foundicon-search"></i></h4>
+<div class="bd">
+    <div class="players-results">
+        <p ng-hide="results.length">No Results, Please Search A Player</p>
+        <table ng-show="results.length">
+            <thead>
+                <tr>
+                    <th width="200">Region</th>
+                    <th width="150">Player</th>
+                    <th width="150">Pts</th>
+                    <th width="150">Wins</th>
+                    <th width="150">Losses</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-click="gotoPlayerInfo(player.bnetId)" ng-repeat="player in results">
+                    <td>{{player.region}}</td>
+                    <td class="name">{{player.name}}</td>
+                    <td>{{player.divisions.points}}</td>
+                    <td class="win">{{player.divisions.wins}}</td>
+                    <td class="loss">{{player.divisions.losses}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
