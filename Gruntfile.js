@@ -344,7 +344,12 @@ module.exports = function (grunt) {
                     cssDir: 'app/styles/'
                 }
             }
-        }
+        },
+        bower: {
+		    install: {
+		       //just run 'grunt bower:install' and you'll see files from your Bower packages in lib directory
+		    }
+		}
     });
     grunt.loadNpmTasks('grunt-sass');
 
@@ -370,6 +375,7 @@ module.exports = function (grunt) {
     ]);
 
     grunt.registerTask('build', [
+    	'bower:install'
         'clean:dist',
         'useminPrepare',
         'concurrent:dist',
@@ -378,7 +384,7 @@ module.exports = function (grunt) {
         'cdnify',
         'ngmin',
         'cssmin',
-        'uglify',
+        'uglify:build',
         'rev',
         'usemin'
     ]);
