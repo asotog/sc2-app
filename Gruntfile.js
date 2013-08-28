@@ -375,7 +375,7 @@ module.exports = function (grunt) {
     ]);
 
     grunt.registerTask('build', [
-    	'bower:install'
+    	'bower:install',
         'clean:dist',
         'useminPrepare',
         'concurrent:dist',
@@ -386,7 +386,8 @@ module.exports = function (grunt) {
         'cssmin',
         'uglify:build',
         'rev',
-        'usemin'
+        'usemin',
+        'compass'
     ]);
 
     grunt.registerTask('default', [
